@@ -1,0 +1,37 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SRT subtitle file
+*.srt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+*.pid
+
+# Test coverage reports
+coverage/
+*.cover
+*.lcov
+
+# Other ignored files
+*.pkl
+*.sqlite3
+*.db
